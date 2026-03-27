@@ -1,8 +1,8 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Md+Nazrul+Islam+Nayon;Professional+Flutter+Developer;Scalable+Mobile+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Md+Nazrul+Islam+Nayon" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 </h1><h3 align="center">Professional Mobile Application Developer | Andoird-IOS | Scalable Mobile Solution</h3>
 
 
