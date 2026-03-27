@@ -1,29 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md Nazrul Islam Nayon</h1>
-<h3 align="center">Professional Mobile Application Developer | Flutter & Dart Expert</h3>
+<h3 align="center">Professional Mobile Application Developer | Andoird,IOS | Scalable Mobile Solution</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
 
 ---
 
 ### 🚀 About Me
-- 📱 Specializing in building high-performance, cross-platform mobile apps using **Flutter**.
-- 🎨 Expert in converting **Figma/Adobe XD** designs into pixel-perfect responsive UI.
-- 🛠️ Experienced in State Management using **Riverpod** and **MVVM** architecture.
-- 🌐 Proficient in REST API integration with **Dio** and real-time features using **Socket.io**.
+- 📱 Mobile Specialist: Crafting high-performance, native-quality cross-platform applications using Flutter & Dart.
+- 🎨 Design-to-Code: Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces.
+- 🏗️ Architectural Excellence: Implementing clean and scalable codebases using MVVM architecture for maintainable production apps.
+- ⚡ State Management: Expert in handling complex app states using Riverpod and GetX for seamless user experiences.
+- 🔌 API & Backend: Robust integration of REST APIs (with Dio) and real-time database management using Firebase Ecosystem.
 
-### 🛠️ Tech Stack & Tools
-- **Frontend:** Flutter, Dart
-- **State Management:** Riverpod, Provider
-- **Backend/DB:** Firebase, Supabase, Appwrite
-- **Networking:** Dio, Http, Socket.io
-- **Tools:** GitHub, Figma, VS Code, Postman
-
----
 
 ### 📊 GitHub Statistics
 <p align="center">
@@ -39,6 +26,15 @@
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nazrul Islam" height="30" width="40" /></a>
+<a href="https://github.com/NazrulIslam991" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/nazrulislamnayon" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+</a>
+<a href="mailto:nazrulislamnayon991@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
+</a>
+</p>
 <a href="mailto:nazrulislamnayon991@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" alt="Email" height="30" width="30" /></a>
 </p>
