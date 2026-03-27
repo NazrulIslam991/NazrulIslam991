@@ -14,13 +14,10 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazrulislam991&show_icons=true&theme=tokyonight&count_private=true" alt="Nazrul's Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam991&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrulislam991&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="165" />
-</p>
+
 
 ---
 
