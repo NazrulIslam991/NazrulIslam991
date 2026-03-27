@@ -32,6 +32,3 @@
 <a href="mailto:nazrulislamnayon991@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
 </a>
-</p>
-<a href="mailto:nazrulislamnayon991@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.svg" alt="Email" height="30" width="30" /></a>
-</p>
