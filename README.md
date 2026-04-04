@@ -25,7 +25,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NazrulIslam991&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="NazrulIslam991 GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NazrulIslam991&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&hide=issues,reviews" alt="GitHub Trophies" />
 </p>
 
 ---
