@@ -5,6 +5,14 @@
 </p>
 </h1><h3 align="center">Professional Mobile Application Developer | Andoird-IOS | Scalable Mobile Solution</h3>
 
+### 🌐 Portfolio
+
+<p align="left">
+  <a href="https://nazrulislam991.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
