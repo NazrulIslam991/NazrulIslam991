@@ -5,13 +5,6 @@
 </p>
 </h1><h3 align="center">Professional Mobile Application Developer | Andoird-IOS | Scalable Mobile Solution</h3>
 
-### 🌐 Portfolio
-
-<p align="left">
-  <a href="https://nazrulislam991.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
 
 
 ---
@@ -35,12 +28,22 @@
 
 ### 📫 Connect with me:
 <p align="left">
+
 <a href="https://github.com/NazrulIslam991" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </a>
+
 <a href="https://www.linkedin.com/in/nazrulislamnayon" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
 </a>
+
 <a href="mailto:nazrulislamnayon991@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
 </a>
+
+<!-- ✅ PORTFOLIO ADDED HERE (same row) -->
+<a href="https://nazrulislam991.github.io/my-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+</a>
+
+</p>
