@@ -1,11 +1,20 @@
+### <h1 align="center">👋 Hi, I'm Md. Nazrul Islam Nayon</h1>
+
+### <h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Mobile App Enthusiast</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Md+Nazrul+Islam+Nayon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cross-Platform+App+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Applications;Android+%7C+iOS+%7C+Web" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NazrulIslam991&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/NazrulIslam991?tab=repositories">
+    <img src="https://img.shields.io/github/stars/NazrulIslam991?style=flat&logo=github&color=yellow" />
+  </a>
+  <a href="https://github.com/NazrulIslam991?tab=followers">
+    <img src="https://img.shields.io/github/followers/NazrulIslam991?style=flat&logo=github" />
   </a>
 </p>
-</h1><h3 align="center">Professional Mobile Application Developer | Andoird-IOS | Scalable Mobile Solution</h3>
-
-
 
 ---
 
