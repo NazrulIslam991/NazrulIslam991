@@ -44,11 +44,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mysql,postman,git,github,vscode,figma" />
     </td>
   </tr>
