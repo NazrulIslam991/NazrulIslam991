@@ -32,15 +32,12 @@
 - ⚡ **State Management:** Expert in handling complex app states using Riverpod and GetX for seamless user experiences.
 - 🔌 **API & Backend:** Robust integration of REST APIs (with Dio) and real-time database management using Firebase Ecosystem.
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
----
 
----
 
 ### 🛠️ Skills & Tools
 
