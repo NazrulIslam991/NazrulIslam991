@@ -24,14 +24,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.pixabay.com/animation/2023/10/26/18/34/18-34-45-748_512.gif">
 
 - 📱 **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart.
 - 🎨 **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces.
 - 🏗️ **Architectural Excellence:** Implementing clean and scalable codebases using MVVM architecture for maintainable production apps.
 - ⚡ **State Management:** Expert in handling complex app states using Riverpod and GetX for seamless user experiences.
 - 🔌 **API & Backend:** Robust integration of REST APIs (with Dio) and real-time database management using Firebase Ecosystem.
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
