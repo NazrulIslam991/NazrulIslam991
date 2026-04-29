@@ -24,11 +24,11 @@
 </div>
 
 
-- 📱 **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart.
-- 🎨 **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces.
-- 🏗️ **Architectural Excellence:** Implementing clean and scalable codebases using MVVM architecture for maintainable production apps.
-- ⚡ **State Management:** Expert in handling complex app states using Riverpod and GetX for seamless user experiences.
-- 🔌 **API & Backend:** Robust integration of REST APIs (with Dio) and real-time database management using Firebase Ecosystem.
+- 📱 **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart, with a deep understanding of native Android (Java & Kotlin) for platform-specific integrations.
+- 🎨 **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces that feel natural on every device.
+- 🏗️ **Architectural Excellence:** Implementing clean, scalable, and testable codebases using MVVM Architecture for maintainable production-grade apps.
+- ⚡ **State Management:** Expert in orchestrating complex app states and reactive programming using Riverpod and GetX for seamless, lag-free user experiences.
+- 🔌 **API & Backend:** Robust integration of REST APIs (via Dio) and real-time database management using the Firebase Ecosystem (Auth, Firestore, Cloud Messaging).
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -39,7 +39,7 @@
 ### 🛠️ Skills & Tools
 
 #### **Core Expertise**
-- **Mobile App Development:** Flutter, Dart, Cross-Platform App Development, Responsive UI
+- **Mobile App Development:** Flutter, Dart, Cross-Platform App Development, native Android (Java & Kotlin) Responsive UI
 - **State Management:** Riverpod, GetX
 - **Architecture:** OOP, MVVM, Repository Pattern
 - **API Integration:** RESTful APIs, Dio, JSON Parsing, JWT Authentication, Error Handling
