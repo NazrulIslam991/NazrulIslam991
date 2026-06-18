@@ -58,7 +58,9 @@
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ### 📊 GitHub Statistics
 <p align="center">
@@ -68,7 +70,24 @@
 [![Nazrul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NazrulIslam991&bg_color=0d1117&color=6bdfff&line=6bdfff&point=ffffff&area=true&hide_border=true)](https://github.com/NazrulIslam991)
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
+🚀 Junior Flutter Developer (Training)
+
+Softvence Delta, Dhaka, Bangladesh
+📅 Jan 2026 – May 2026
+
+✔️ Completed intensive Flutter training and delivered 6+ real-world mobile application projects within 4 months
+✔️ Collaborated with a team of 5+ developers to build and optimize production-level applications
+✔️ Improved app performance by 20% through optimized state management and code refactoring
+✔️ Applied MVVM architecture with Riverpod, reducing boilerplate code by 30% and improving scalability for future features
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ### 🌐 Connect with Me
 <p align="center">
