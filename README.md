@@ -23,13 +23,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-I am a highly motivated Junior Flutter Developer with 1+ years of experience, including 5 months of professional training, specializing in building high-performance cross-platform mobile applications.
-
--  **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart, with a deep understanding of native Android (Java & Kotlin) for platform-specific integrations.
--  **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces that feel natural on every device.
--  **Architectural Excellence:** Implementing clean, scalable, and testable codebases using MVVM Architecture for maintainable production-grade apps.
--  **State Management:** Expert in orchestrating complex app states and reactive programming using Riverpod and GetX for seamless, lag-free user experiences.
--  **API & Backend:** Robust integration of REST APIs (via Dio) and real-time database management using the Firebase Ecosystem (Auth, Firestore, Cloud Messaging).
+Highly motivated Junior Flutter Developer with 1+ years of experience, including 5 months of professional training. I am
+skilled in Dart, Firebase, REST API integration, and MVVM architecture. I can deliver high-performance,
+cross-platform mobile applications through various projects for clients and professionals. I have strong problem-solving
+skills and am committed to writing clean code. I am eager to contribute my skills and knowledge to the success of a
+dynamic company
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -40,16 +38,18 @@ I am a highly motivated Junior Flutter Developer with 1+ years of experience, in
 ###  Skills & Tools
 
 #### **Core Expertise**
-- **Mobile App Development:** Flutter, Dart, Cross-Platform App Development, native Android (Java & Kotlin) Responsive UI
-- **State Management:** Riverpod, GetX
-- **Architecture:** OOP, MVVM, Repository Pattern
-- **API Integration:** RESTful APIs, Dio, JSON Parsing, JWT Authentication, Error Handling
-- **Real-Time Systems:** Firebase (FCM), WebSockets (Socket.io)
-- **Maps & Tracking:** Google Maps, Geolocation, Real-time Location Tracking
-- **Payments & Subscription:** Stripe Integration
-- **Storage & Caching:** SharedPreferences, Local Caching
-- **Advanced Features:** Localization, OCR, Theme,
-- **Tools & Platforms:** Firebase, Postman, FVM, Android Studio, VS Code, Git, GitHub
+
+- Mobile Development: Flutter, Dart, Native Android (Java & Kotlin), Responsive UI Development
+- Design-to-Code: Figma / Adobe XD to Pixel-Perfect UI, Adaptive Layouts, Animations, Material Design
+- Architecture: OOP, MVVM
+- State Management: Riverpod, GetX
+- API & Backend: RESTful APIs, Dio, JSON Parsing, JWT Authentication, Error Handling
+- Real-Time Systems: Firebase (Authentication, Firestore), WebSockets (Socket.io)
+- Maps &Tracking: Google Maps, Geolocation, Real-Time Location Tracking
+- Payments: Stripe Integration
+- Storage & Caching: SharedPreferences, Local Data Caching
+- Advanced Features: Localization, OCR, Dynamic Theming
+- Tools & Platforms: Firebase, Postman, Insomnia, FVM, Git, GitHub, VS Code, Android Studio
 
 <table align="center">
   <tr>
@@ -82,7 +82,7 @@ Softvence Delta, Dhaka, Bangladesh
 - Completed intensive Flutter training and delivered 6+ real-world mobile application projects within 4 months
 - Collaborated with a team of 5+ developers to build and optimize production-level applications
 - Improved app performance by 20% through optimized state management and code refactoring
-- Applied MVVM architecture with Riverpod, reducing boilerplate code by 30% and improving scalability for future features
+- Applied MVVM architecture with Riverpod, which reduced boilerplate code by 30% and improved project scalability for future features
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -94,6 +94,13 @@ Softvence Delta, Dhaka, Bangladesh
 B.Sc. in Computer Science & Engineering
 -  Leading University, Sylhet
 -  CGPA: 3.68 / 4.00
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
+
+## Certifications
+
+- Flutter Development Certificate – Ostad (2025)
+- Completed hands-on training in Flutter app development, covering UI design, state management, and real-world project implementation.
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
 
