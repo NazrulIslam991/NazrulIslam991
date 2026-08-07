@@ -1,6 +1,6 @@
 ### <h1 align="center">👋 Hi, I'm Md. Nazrul Islam Nayon</h1>
 
-### <h3 align="center">🚀 Flutter Developer | Cross-Platform App Builder | Mobile App Enthusiast</h3>
+### <h3 align="center"> Flutter Developer | Cross-Platform App Builder | Mobile App Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=9F00FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Cross-Platform+App+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Applications;Android+%7C+iOS+%7C+Web" />
@@ -17,18 +17,19 @@
 </p>
 
 
-### 🚀 About Me
+###  About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+I am a highly motivated Junior Flutter Developer with 1+ years of experience, including 5 months of professional training, specializing in building high-performance cross-platform mobile applications.
 
-- 📱 **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart, with a deep understanding of native Android (Java & Kotlin) for platform-specific integrations.
-- 🎨 **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces that feel natural on every device.
-- 🏗️ **Architectural Excellence:** Implementing clean, scalable, and testable codebases using MVVM Architecture for maintainable production-grade apps.
-- ⚡ **State Management:** Expert in orchestrating complex app states and reactive programming using Riverpod and GetX for seamless, lag-free user experiences.
-- 🔌 **API & Backend:** Robust integration of REST APIs (via Dio) and real-time database management using the Firebase Ecosystem (Auth, Firestore, Cloud Messaging).
+-  **Mobile Specialist:** Crafting high-performance, native-quality cross-platform applications using Flutter & Dart, with a deep understanding of native Android (Java & Kotlin) for platform-specific integrations.
+-  **Design-to-Code:** Transforming complex Figma/Adobe XD wireframes into pixel-perfect, fluid, and responsive user interfaces that feel natural on every device.
+-  **Architectural Excellence:** Implementing clean, scalable, and testable codebases using MVVM Architecture for maintainable production-grade apps.
+-  **State Management:** Expert in orchestrating complex app states and reactive programming using Riverpod and GetX for seamless, lag-free user experiences.
+-  **API & Backend:** Robust integration of REST APIs (via Dio) and real-time database management using the Firebase Ecosystem (Auth, Firestore, Cloud Messaging).
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -36,7 +37,7 @@
 
 
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 #### **Core Expertise**
 - **Mobile App Development:** Flutter, Dart, Cross-Platform App Development, native Android (Java & Kotlin) Responsive UI
@@ -62,7 +63,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazrulislam991&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
@@ -73,9 +74,9 @@
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
 
-## 💼 Work Experience
+##  Work Experience
 
-#### 🚀 Junior Flutter Developer (Training)    Jan 2026 – May 2026
+####  Junior Flutter Developer (Training)    Jan 2026 – May 2026
 Softvence Delta, Dhaka, Bangladesh
 
 - Completed intensive Flutter training and delivered 6+ real-world mobile application projects within 4 months
@@ -87,7 +88,55 @@ Softvence Delta, Dhaka, Bangladesh
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### 🌐 Connect with Me
+
+##  Education
+
+B.Sc. in Computer Science & Engineering
+-  Leading University, Sylhet
+-  CGPA: 3.68 / 4.00
+
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> </div>
+
+
+## Key Projects
+
+#### CoachMe – Athlete & Coach Platform
+
+- Multi-role app with booking & payment system
+- REST API integration (auth, scheduling, marketplace)
+- Real-time chat + Google Maps integration
+
+#### Menu Assist – Health Dining App
+
+- Smart food recommendation system
+- Responsive UI + API integration
+- Clean architecture using MVVM
+
+#### Bikretaa – Shop Management App
+
+- Inventory, sales, and customer tracking system
+- Firebase integration + GetX state management
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>  
+
+
+## Published Packages 
+- SnackFlow – Glassmorphic overlay notification system
+- Searchable AppBar – Advanced AppBar with animated search & filtering
+
+  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>  
+
+
+
+###  Connect with Me
 <p align="center">
   <a href="https://github.com/NazrulIslam991" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -112,4 +161,7 @@ Softvence Delta, Dhaka, Bangladesh
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>  
+
